@@ -1,27 +1,26 @@
+# ☆FonicsScriptsDE☆
 
-## Authors
+Easy FiveM Server Install [Linux]
 
-- [@FonicsScriptsDE](https://www.github.com/FonicsScriptsDE)
+## Copy Past Automatic Install
 
-
-## Easy Copy Past Installation
-
-FiveM Server Automatic Install
-
-```Command:
-  https://github.com/FonicsScriptsDE/FiveMNewInstall2025
-```
+Schaue gern auf meinem YT Kanal vorbei! [YouTube](https://youtube.com/@fonicsscriptsde?si=AF5vQL2rsPeO2-MO) zukünftig gibt's viele Tutorial's usw
 
 
-## Copy Past Automatic Command
-bash <(curl -s https://raw.githubusercontent.com/FonicsScriptsDE/FiveMNewInstall2025/refs/heads/main/setup.sh)
+## Kopiere denn kompletten Code und Füge ihn ein
 
+bash <(curl -s https://raw.githubusercontent.com/
+FonicsScriptsDE/FiveMNewInstall2025
+/refs/heads/main/setup.sh)
 
-## Social & Tutorial
-YouTube: https://youtube.com/@fonicsscriptsde?si=aqbT1A3JqXHOcnCF
+Nun wünsche ich dir viel Spaß mit deinem FiveM Server!
 
-TikTok: http://tiktok.com/@realfonicsde
+## Best Hosting Service
 
-## Discord / Kontakt
-Discord: https://discord.gg/pqDvVh9VVr
+[www.Tube-Hosting.com](https://www.tube-hosting.com)
 
+Bestes Preis Leistungs Verhältnis!
+
+☆ Faire Preise ☆ Cooles Team ☆
+
+Deutscher Support + Cooler Owner!
