@@ -9,6 +9,8 @@ Schaue gern auf meinem YT Kanal vorbei! [YouTube](https://youtube.com/@fonicsscr
 
 ## Kopiere denn kompletten Code und Füge ihn ein
 
+apt update && apt upgrade
+
 bash <(curl -s https://raw.githubusercontent.com/
 FonicsScriptsDE/FiveMNewInstall2025
 /refs/heads/main/setup.sh)
